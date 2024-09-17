@@ -1,4 +1,11 @@
-# BASE EFI Intel Comet Lake, Coffee Lake Plus and Ice Lake
+# EFI-GIGABYTE-H510-RX6600-XT
+
+# Complete hardware specs
+- Intel i3 10100
+- Gigabyte H510
+- AMD RX 6600 XT
+- 16Gb RAM - 2 x 8GB DDR4 3200Mhz
+- Audio: Realtek ALC897 (Working with AppleALC 1.8.2 version)
 
 Note|Description
 :----|:----
